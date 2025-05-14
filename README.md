@@ -1,1 +1,1 @@
-# rag-fastapi-gcp (Unfinished)
+# rag-fastapi (Unfinished)
