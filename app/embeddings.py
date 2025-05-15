@@ -2,7 +2,6 @@
 
 from google import genai
 
-api_key = "AIzaSyBPYTt-C7sGXw8PEzlUAqfMkLZuC2PcdqU"
 client = genai.Client(api_key=api_key)
 
 def get_embedding(text):
